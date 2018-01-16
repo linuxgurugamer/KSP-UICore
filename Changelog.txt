@@ -1,0 +1,7 @@
+1.0.0.1
+	Adoption by Linuxgurugamer
+	Added .version file
+	Added AssemblyVersion
+	Add build scripots
+	Added License.txt
+	Add jenkins config

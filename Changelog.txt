@@ -1,3 +1,7 @@
+1.0.1.0
+	Rebuilt for KSP 1.4.1
+	Added support for ClickThroughBlocker
+
 1.0.0.1
 	Adoption by Linuxgurugamer
 	Added .version file

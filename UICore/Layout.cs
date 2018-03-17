@@ -1,6 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
+using ClickThroughFix;
 namespace UICore
 {
 	public class Layout
@@ -246,7 +247,7 @@ namespace UICore
 			// Fix rect width and height not being integers to avoid blurry font rendering
 			screenRect.width = (float)Math.Floor (screenRect.width);
 			screenRect.height = (float)Math.Floor (screenRect.height);
-			return GUILayout.Window (id, screenRect, func, title, skin.Styles ["window"], options);
+			return ClickThruBlocker.GUILayoutWindow (id, screenRect, func, title, skin.Styles ["window"], options);
 		}
 	}
 }

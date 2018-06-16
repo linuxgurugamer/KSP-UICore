@@ -1,17 +1,30 @@
 {
-    "NAME"     : "UI Core",
-    "URL"      : "https://raw.githubusercontent.com/linuxgurugamer/KSP-UICore/master/UICore.version",
-    "DOWNLOAD" : "https://github.com/Real-Gecko/linuxgurugamer/releases",
-    "GITHUB" :
-    {
-        "USERNAME" : "Real-Gecko",
-        "REPOSITORY" : "KSP-UICore"
+    "NAME": "UI Core",
+    "URL": "https://raw.githubusercontent.com/linuxgurugamer/KSP-UICore/master/UICore.version",
+    "DOWNLOAD": "https://github.com/Real-Gecko/linuxgurugamer/releases",
+    "GITHUB": {
+        "USERNAME": "Real-Gecko",
+        "REPOSITORY": "KSP-UICore"
     },
-    "VERSION" :
-    {
-        "MAJOR" : 1,
-        "MINOR" : 0,
-        "PATCH" : 1,
-        "BUILD" : 0
+    "VERSION": {
+        "MAJOR": 1,
+        "MINOR": 0,
+        "PATCH": 1,
+        "BUILD": 1
+    },
+    "KSP_VERSION": {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 1
+    },
+    "KSP_VERSION_MIN": {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 1
+    },
+    "KSP_VERSION_MAX": {
+        "MAJOR": 1,
+        "MINOR": 4,
+        "PATCH": 99
     }
 }

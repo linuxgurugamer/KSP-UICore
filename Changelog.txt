@@ -1,3 +1,9 @@
+ChangeLog
+
+1.0.2
+	Added InstallChecker
+	Upgraded for KSP 1.8
+
 1.0.1.2
 	Version bump for 1.5 rebuild
 
